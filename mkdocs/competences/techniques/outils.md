@@ -1,21 +1,21 @@
 # Outils
 
-## Linux
+## Linux <img alt="Tux" src="/img/tux.png" style="max-height: 1em">
 
-### Ubuntu
+### Ubuntu <img alt="Ubuntu" src="/img/ubuntu.png" style="max-height: 1em">
 
-### Gentoo
+### Gentoo <img alt="Gentoo" src="/img/gentoo.svg" style="max-height: 1em">
 
-### Arch
+### Arch <img alt="Arch" src="/img/arch.png" style="max-height: 1em">
 
-## VIM
+## VIM <img alt="Vim" src="/img/vim.png" style="max-height: 1em">
 
-## Git
+## Git <img alt="Git" src="/img/git-icon.png" style="max-height: 1em">
 
-## ZSH
+## ZSH <b>%</b>
 
-## Docker
+## Docker <img alt="Docker" src="/img/docker.png" style="max-height: 1em">
 
-## GIMP
+## GIMP <img alt="Gimp" src="/img/gimp.png" style="max-height: 1em">
 
-## I3
+## i3 <img alt="i3" src="/img/i3_icon.png" style="max-height: 1em; background: #2e2e2e">

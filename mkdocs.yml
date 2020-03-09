@@ -30,7 +30,7 @@ site_dir: "docs"
 
 markdown_extensions:
     - toc:
-        permalink: False
+        permalink: True
         separator: "_"
 
 strict: True

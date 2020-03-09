@@ -1,0 +1,36 @@
+site_name: Portfolio Alban De Wilde
+theme:
+    name: readthedocs
+    custom_dir: "custom_theme/"
+
+nav:
+    - Accueil: "accueil.md"
+    - Mon profil: "profil.md"
+    - Mes études: "etudes.md"
+    - Mes expériences: "experiences.md"
+    - Mes compétences:
+        - Techniques:
+            - Langages: "competences/techniques/langages.md"
+            - Frameworks: "competences/techniques/frameworks.md"
+            - Outils: "competences/techniques/outils.md"
+            - Autres: "competences/techniques/autres.md"
+        - Transverses: "competences/transverses.md"
+    - Les projets:
+        - Scolaires: "projets/scolaire.md"
+        - Personnels: "projets/personnels.md"
+    - Mes centres d'intérets:
+        - Le sport: "sports.md"
+        - L'informatique et la programation: "info_prog.md"
+    - Détails sur ce portfolio: "details.md"
+
+# repo_url: "https://github.com/Keftcha/portfolio"
+site_author: "Keftcha"
+docs_dir: "mkdocs"
+site_dir: "docs"
+
+markdown_extensions:
+    - toc:
+        permalink: False
+        separator: "_"
+
+strict: True

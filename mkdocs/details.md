@@ -1,0 +1,1 @@
+détails sur le portfolio

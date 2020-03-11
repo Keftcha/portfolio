@@ -30,3 +30,26 @@ autre région française.
 Par d'autres expériences, j'ai pu transmettre mes compétences, j'ai beaucoup
 apprécié cela. C'est pourquoi je souhaite dans le futur continuer à partager
 mes connaissances.
+
+<hr>
+
+Une citation que j'aime beaucoup est celle-ci:
+
+> Ce n'est pas parce que vous ne savez pas vous servir d'un marteau qu'il faut planter des clous au tournevis.
+
+Je ne sais pas de qui elle provient, cependant je la trouve très intéressante.  
+Elle montre qu'il faut toujours apprendre et qu'il faut prendre du recul sur ce
+que l'on fait et en avoir un avis critique.
+
+Une chose qu'on m'a dite est celle-ci:
+
+> J'ai travaillé pendant des années sur un système sous Linux que j'ai migré en Python 3. Ouais, cool. Mais ce système, il y a 7 ans, il a servi à un dictateur à espionner sa population, arrêter et torturer des opposants politiques.
+> D'après toi, ça vaut le coup de bosser en Python sous Linux pour ça ?
+
+C'est un de mes proches qui m'a dit cela.  
+Cette citation a été tiré d'une discussion au propos du fait que j'étais trop
+accroché aux outils que j'utilisais.
+
+Depuis, j'essaye de prendre du recul sur les outils et technologies que
+j'utilise dans mes projets pour en être le moins dépendant possible, que ce soit par les
+compétences techniques ou par affinité.

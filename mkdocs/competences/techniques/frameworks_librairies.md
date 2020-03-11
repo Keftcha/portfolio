@@ -1,4 +1,4 @@
-# Frameworks
+# Frameworks et librairies
 
 ## Bottle <img alt="Bottle" src="/portfolio/img/bottle_icon.png" style="max-height: 1em">
 

@@ -11,7 +11,7 @@ nav:
     - Mes compétences:
         - Techniques:
             - Langages: "competences/techniques/langages.md"
-            - Frameworks: "competences/techniques/frameworks.md"
+            - Frameworks et librairies: "competences/techniques/frameworks_librairies.md"
             - Outils: "competences/techniques/outils.md"
             - Autres: "competences/techniques/autres.md"
         - Transverses: "competences/transverses.md"

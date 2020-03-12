@@ -5,7 +5,7 @@
             <span style="font-weight: normal;">Alban</span> <b>De Wilde</b>
         </h1>
         <b>
-            Étudiant en quiatrième année d'informatique
+            Étudiant en quatrième année d'informatique
         </b>
         <br>
         À <a target="_blank" href="https://www.intechinfo.fr/">In'Tech</a>

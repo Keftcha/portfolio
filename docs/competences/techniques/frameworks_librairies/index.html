@@ -1,191 +1,136 @@
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <meta name="author" content="Keftcha">
   
-  <link rel="shortcut icon" href="../../../img/favicon.ico">
-  <title>Frameworks et librairies - Portfolio Alban De Wilde</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="author" content="Keftcha">
+    
+    <link rel="shortcut icon" href="../../../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Frameworks et librairies - Portfolio Alban De Wilde</title>
+    <link href="../../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../../../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
 
-  <link rel="stylesheet" href="../../../css/theme.css" />
-  <link rel="stylesheet" href="../../../css/theme_extra.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
-  
-  <script>
-    // Current page data
-    var mkdocs_page_name = "Frameworks et librairies";
-    var mkdocs_page_input_path = "competences/techniques/frameworks_librairies.md";
-    var mkdocs_page_url = null;
-  </script>
-  
-  <script src="../../../js/jquery-2.1.1.min.js" defer></script>
-  <script src="../../../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script> 
-  
+    <script src="../../../js/jquery-3.2.1.min.js"></script>
+    <script src="../../../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../../../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '../../..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Frameworks et librairies", url: "#_top", children: [
+              {title: "Bottle ", url: "#bottle" },
+              {title: "Javalin ", url: "#javalin" },
+              {title: "React ", url: "#react" },
+              {title: "Django ", url: "#django" },
+              {title: "Ruby on Rails ", url: "#ruby_on_rails" },
+              {title: "Vue.Js ", url: "#vuejs" },
+          ]},
+        ];
+
+    </script>
+    <script src="../../../js/base.js"></script> 
 </head>
 
-<body class="wy-body-for-nav" role="document">
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
 
-  <div class="wy-grid-for-nav">
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
 
     
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
-    <div class="wy-side-scroll">
-      <div class="wy-side-nav-search">
-        <a href="../../.." class="icon icon-home"> Portfolio Alban De Wilde</a>
+    
+      
+    
 
-      </div>
-
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../accueil/">Accueil</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../profil/">Mon profil</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../etudes/">Mes études</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../experiences/">Mes expériences</a>
-                    </li>
-                </ul>
-                <p class="caption"><span class="caption-text">Mes compétences</span></p>
-                <ul class="current">
-                    <li class="toctree-l1 current"><a class="reference internal current" href="#">Techniques</a>
-    <ul class="current">
-                <li class="toctree-l2"><a class="reference internal" href="../langages/">Langages</a>
-                </li>
-                <li class="toctree-l2 current"><a class="reference internal current" href="./">Frameworks et librairies</a>
-    <ul class="current">
-    <li class="toctree-l3"><a class="reference internal" href="#bottle">Bottle </a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#javalin">Javalin </a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#react">React </a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#django">Django </a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#ruby_on_rails">Ruby on Rails </a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#vuejs">Vue.Js </a>
-    </li>
-    </ul>
-                </li>
-                <li class="toctree-l2"><a class="reference internal" href="../outils/">Outils</a>
-                </li>
-                <li class="toctree-l2"><a class="reference internal" href="../autres/">Autres</a>
-                </li>
-    </ul>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../transverses/">Transverses</a>
-                    </li>
-                </ul>
-                <p class="caption"><span class="caption-text">Les projets</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../projets/scolaire/">Scolaires</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../projets/personnels/">Personnels</a>
-                    </li>
-                </ul>
-                <p class="caption"><span class="caption-text">Mes centres d'intérets</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../sports/">Le sport</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../info_prog/">L'informatique et la programation</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../../details/">Détails sur ce portfolio</a>
-                    </li>
-                </ul>
-      </div>
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../outils/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../outils/" class="btn btn-xs btn-link">
+        Outils
+      </a>
     </div>
-    </nav>
-
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="../../..">Portfolio Alban De Wilde</a>
-      </nav>
-
-      
-      <div class="wy-nav-content">
-        <div class="rst-content">
-          <div role="navigation" aria-label="breadcrumbs navigation">
-  <ul class="wy-breadcrumbs">
-    <li><a href="../../..">Docs</a> &raquo;</li>
     
-      
-        
-          <li>Techniques &raquo;</li>
-        
-      
-        
-          <li>Mes compétences &raquo;</li>
-        
-      
+    <div class="wm-article-nav">
+      <a href="../langages/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../langages/" class="btn btn-xs btn-link">
+        Langages
+      </a>
+    </div>
     
-    <li>Frameworks et librairies</li>
-    <li class="wy-breadcrumbs-aside">
-      
-    </li>
-  </ul>
-  
-  <hr/>
-</div>
-          <div role="main">
-            <div class="section">
-              
-                <h1 id="frameworks_et_librairies">Frameworks et librairies<a class="headerlink" href="#frameworks_et_librairies" title="Permanent link">&para;</a></h1>
+  </div>
+
+    
+
+    <h1 id="frameworks_et_librairies">Frameworks et librairies<a class="headerlink" href="#frameworks_et_librairies" title="Permanent link">&para;</a></h1>
 <h2 id="bottle">Bottle <img alt="Bottle" src="/portfolio/img/bottle_icon.png" style="max-height: 1em"><a class="headerlink" href="#bottle" title="Permanent link">&para;</a></h2>
 <h2 id="javalin">Javalin <img alt="Javalin" src="/portfolio/img/javalin_icon.png" style="max-height: 1em"><a class="headerlink" href="#javalin" title="Permanent link">&para;</a></h2>
 <h2 id="react">React <img alt="React" src="/portfolio/img/react.png" style="max-height: 1em"><a class="headerlink" href="#react" title="Permanent link">&para;</a></h2>
 <h2 id="django">Django <img alt="Django" src="/portfolio/img/django.svg" style="max-height: 1em"><a class="headerlink" href="#django" title="Permanent link">&para;</a></h2>
 <h2 id="ruby_on_rails">Ruby on Rails <img alt="RoR" src="/portfolio/img/rails.svg" style="max-height: 1em"><a class="headerlink" href="#ruby_on_rails" title="Permanent link">&para;</a></h2>
 <h2 id="vuejs">Vue.Js <img alt="Vue.Js" src="/portfolio/img/vuejs.png" style="max-height: 1em"><a class="headerlink" href="#vuejs" title="Permanent link">&para;</a></h2>
-              
-            </div>
-          </div>
-<hr>
 
-        </div>
-      </div>
+  <br>
+    
 
-    </section>
+    
+    
+      
+    
 
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../outils/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../outils/" class="btn btn-xs btn-link">
+        Outils
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../langages/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../langages/" class="btn btn-xs btn-link">
+        Langages
+      </a>
+    </div>
+    
   </div>
 
-  <div class="rst-versions" role="note" aria-label="versions">
-    <span class="rst-current-version" data-toggle="rst-current-version">
-      
-      
-        <span><a href="../langages/" style="color: #fcfcfc;">&laquo; Previous</a></span>
-      
-      
-        <span style="margin-left: 15px"><a href="../outils/" style="color: #fcfcfc">Next &raquo;</a></span>
-      
-    </span>
+    <br>
 </div>
-    <script>var base_url = '../../..';</script>
-    <script src="../../../js/theme.js" defer></script>
-      <script src="../../../search/main.js" defer></script>
-    <script defer>
-        window.onload = function () {
-            SphinxRtdTheme.Navigation.enable(true);
-        };
-    </script>
+
+<footer class="container-fluid wm-page-content">
+<hr>
+
+</footer>
 
 </body>
 </html>

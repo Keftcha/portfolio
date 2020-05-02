@@ -29,8 +29,7 @@ je suis enthousiaste à l'idée de réaliser un produit avec cette technologie.
 
 ## Go <img alt="gopher" src="/portfolio/img/go_gopher.png" style="max-height: 1em">
 
-Ce langage est celui auquel je m'intéresse en ce moment. C'est un proche qui
-m'a conseillé de m'y intéresser.
+Ce langage me plaît énormément. C'est un proche qui m'a conseillé de m'y intéresser.
 
 J'ai commencé à utiliser le Go pendant mon stage de 6 mois dans le cadre de la
 veille technologique qui nous était attribué. J'ai trouvé ce langage très bien

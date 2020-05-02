@@ -42,6 +42,14 @@ discord (letter_counter, ...) et un peu de web (web_radio_share, gss).
 Je trouve le Go très agréable à développer, c'est pourquoi je souhaite continuer
 à développer en Go personnellement et profesionnellement (si l'occasion se présente).
 
+## Haskell <img alt="haskell" src="/portfolio/img/haskell.png" style="max-height: 1em">
+
+Je me suis intéressé à ce langage pour découvrir un autre paradigme de la
+programmation → la programmation fonctionnelle.
+
+Je souhaitais apprendre une nouvelle manière de programmer et de réfléchir au
+travers ce paradigme.
+
 ## Kotlin <img alt="kotlin" src="/portfolio/img/kotlin_logo.png" style="max-height: 1em">
 
 J'ai pratiqué cette technologie lors de mon semestre 5. L'intervenant nous

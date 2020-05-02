@@ -12,7 +12,7 @@
 
 ## Git <img alt="Git" src="/portfolio/img/git-icon.png" style="max-height: 1em">
 
-## ZSH <b>%</b>
+## ZSH <img alt="Z shell" src="/portfolio/img/zsh.png" style="max-height: 1em">
 
 ## Docker <img alt="Docker" src="/portfolio/img/docker.png" style="max-height: 1em">
 

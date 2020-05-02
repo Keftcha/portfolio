@@ -148,8 +148,8 @@ une partie cliente et une partie serveur.
 
 Au semestre 5 nous avons une introduction au Java, Kotlin, et au développement mobile.  
 Pour le projet nous avons le choix de refaire une application du même type
-qu'en semestre 4 ou|et une application mobile.  
-Cependant il nous est enseigné les principes de toolchain, que nous devons
+qu'en semestre 4 ou | et une application mobile.  
+En plus, il nous est enseigné les principes de toolchain, que nous devons
 mettre en place sur le projet.
 
 ### Le stage du semestre 6

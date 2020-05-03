@@ -11,8 +11,10 @@ peuvent être complexe ou même impossible à réimplémenter pour le développe
 les utilisent.
 
 > La différence entre librairie et framework:  
+>
 > Une librairie va contenir du code que le développeur va pouvoir réutiliser
 > comme il l'entend.  
+>
 > Un framework, en plus de mettre du code à disposition du développeur, va lui
 > imposer une architecture et une manière de coder.
 

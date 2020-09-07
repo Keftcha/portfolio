@@ -34,7 +34,7 @@
         var pageToc = [
           {title: "SenseHat-connected-clock", url: "#_top", children: [
           ]},
-          {title: "letter_counter", url: "#letter_counter", children: [
+          {title: "Letter counter", url: "#letter_counter", children: [
           ]},
           {title: "web_radio_share", url: "#web_radio_share", children: [
           ]},
@@ -86,7 +86,28 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     <p>projets personnels</p>
 <h1 id="sensehat-connected-clock">SenseHat-connected-clock<a class="headerlink" href="#sensehat-connected-clock" title="Permanent link">&para;</a></h1>
-<h1 id="letter_counter">letter_counter<a class="headerlink" href="#letter_counter" title="Permanent link">&para;</a></h1>
+<h1 id="letter_counter">Letter counter<a class="headerlink" href="#letter_counter" title="Permanent link">&para;</a></h1>
+<p><a href="https://github.com/albandewilde/letter_counter" title="Dépôt github">Letter counter</a> est un bot discord qui compte les caractères et messages que les
+utilisateurs envoient.</p>
+<p>Des <a href="https://fr.wikipedia.org/wiki/Bot_informatique" title="Bot Informatique - Wikipedia">bots</a>
+Discord qui font cela il en existe des quantités astronomiques car
+fonctionnellement il est simple à implémenter.
+Cependant j’ai développé ce bot car pour moi le but était de continuer de me
+familiariser avec le Go et Docker.</p>
+<p>Pendant le développement de cette application, j’ai rencontré un problème très
+connu en informatique.<br />
+Un jour je me suis rendu compte que certains caractères (tels que ¨ ou encode
+§) étaient compté comme 2 par le programme. En me renseignant, je me suis rendu
+compte que pour un ordinateur tous les caractères ne font pas la même taille
+dans sa mémoire (cf. <a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/" title="site web de Joel Spolsky">cet article</a>).
+C’est pourquoi certains caractères comptaient double, triple voir quadruple.
+Au final, j’ai corrigé mon problème en utilisant le type de donnée appropriée
+(rune en Go).</p>
+<p>Je suis content de ce projet bien qu’il ne soit pas très ambitieux ou même
+utile. Je retiens beaucoup sur les chaines de caractères en informatique qui
+est en fait un problème très complexe. Ce que j’ai appris à ce sujet pendant ce
+projet m’a permis de comprendre beaucoup de choses plus tard, notamment
+certaines implémentations et mécaniques du Rust.</p>
 <h1 id="web_radio_share">web_radio_share<a class="headerlink" href="#web_radio_share" title="Permanent link">&para;</a></h1>
 
   <br>

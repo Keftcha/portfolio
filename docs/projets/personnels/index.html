@@ -38,6 +38,8 @@
           ]},
           {title: "web_radio_share", url: "#web_radio_share", children: [
           ]},
+          {title: "Diodon", url: "#diodon", children: [
+          ]},
         ];
 
     </script>
@@ -109,6 +111,29 @@ est en fait un problème très complexe. Ce que j’ai appris à ce sujet pendan
 projet m’a permis de comprendre beaucoup de choses plus tard, notamment
 certaines implémentations et mécaniques du Rust.</p>
 <h1 id="web_radio_share">web_radio_share<a class="headerlink" href="#web_radio_share" title="Permanent link">&para;</a></h1>
+<h1 id="diodon">Diodon<a class="headerlink" href="#diodon" title="Permanent link">&para;</a></h1>
+<p><a href="https://github.com/Keftcha/diodon" title="Dépôt github">Diodon</a> est, lui aussi, un
+bot discord. Son but est d'apprendre des messages des utilisateurs pour
+qu'ensuite il fasse ses propres phrases.</p>
+<p>Pour l'apprentissage et la génération des phrases construites par le bot j'ai
+utilisé une <a href="https://fr.wikipedia.org/wiki/Chaîne_de_Markov" title="Chaîne de Markov - Wikipedia">chaîne de Markov</a>.<br />
+J'ai fait le choix d'utiliser ce processus car il est simple à implémenter et
+correspond à mon besoin.</p>
+<p>En voulant manipuler les données (sauvegarder et réutiliser les mots des
+phrases) je suis tombé sur un problème courant de l'informatique, la mutation
+concurrente des données (<em>Data race</em>).<br />
+Mes données sont sauvegardées dans un json ou un <em>map</em> (structure de données en
+Go). Cependant, la partie écrivant et lisant les données est asynchrone.
+L'asynchronisme a beaucoup d'avantage, cependant pour un accès à des données
+il faut l'éviter.<br />
+Pour pallier ce problème j'ai utilisé une <a href="https://fr.wikipedia.org/wiki/Exclusion_mutuelle" title="Mutex - Wikipedia">exclusion mutuelle</a>.
+Le principal danger des mutex est <strong>l'interblocage</strong>. C'est-à-dire qu'un
+processus attend l'accès à une ressource verrouillé tandis qu'un autre processus attend
+que le premier ait fini pour libérer ladite ressource.</p>
+<p>Je suis content de ce projet car après plusieurs mois d'apprentissage le bot
+fait maintenant des phrases très marrantes. De plus, j'ai appris sur les chaînes
+de Markov ainsi que certains effets collatéraux de l'asynchrone et comment s'en
+prévenir.</p>
 
   <br>
     

@@ -32,11 +32,10 @@
       var is_top_frame = false;
         
         var pageToc = [
-          {title: "SenseHat-connected-clock", url: "#_top", children: [
-          ]},
-          {title: "Letter counter", url: "#letter_counter", children: [
-          ]},
-          {title: "Web Radio Share", url: "#web_radio_share", children: [
+          {title: "Mes projets personnels", url: "#_top", children: [
+              {title: "SenseHat connected clock", url: "#sensehat_connected_clock" },
+              {title: "Letter counter", url: "#letter_counter" },
+              {title: "Web Radio Share", url: "#web_radio_share" },
           ]},
           {title: "Diodon", url: "#diodon", children: [
           ]},
@@ -86,9 +85,26 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <p>projets personnels</p>
-<h1 id="sensehat-connected-clock">SenseHat-connected-clock<a class="headerlink" href="#sensehat-connected-clock" title="Permanent link">&para;</a></h1>
-<h1 id="letter_counter">Letter counter<a class="headerlink" href="#letter_counter" title="Permanent link">&para;</a></h1>
+    <h1 id="mes_projets_personnels">Mes projets personnels<a class="headerlink" href="#mes_projets_personnels" title="Permanent link">&para;</a></h1>
+<p>J'aime beaucoup programmer. C'est pourquoi souvent je fais de petits projets qui me permettent d'apprendre des choses.<br />
+Que ce soit pour me familiariser à un langage, mettre en pratique un algorithme, ou tomber sur des problèmes que je ne soupçonnais pas, je
+suis toujours ravis de découvrir de nouvelles choses.</p>
+<h2 id="sensehat_connected_clock">SenseHat connected clock<a class="headerlink" href="#sensehat_connected_clock" title="Permanent link">&para;</a></h2>
+<p>Le <a href="https://github.com/Keftcha/SenseHat-connected-clock/">SenseHat connected clock</a> est un de mes premiers projets.<br />
+J'ai eu l'idée d'initier ce projet car je voulais une petite horloge connectée et tant qu'à faire, autant la faire sois même !</p>
+<p>Ce projet est en python et est aussi l'un des premiers avec lequel j'ai utilisé git. Il est relativement vieux et je m'efforce de faire
+un code le plus propre possible car je ne développe pas fréquemment dessus. Je continue le développement de ce projet de manière très
+irrégulière.</p>
+<p>Je suis très content de ce projet car j'ai un retour direct de ce que j'ai fait. Ceci est dû au fait qu'il utilise le
+<a href="https://www.raspberrypi.org/products/sense-hat/">Sense HAT</a> du Rapsberry Pi. Ce projet est beaucoup moins abstrait que la plupart des
+autre que j'ai pu faire.</p>
+<p>Pour le développement de ce projet j'ai commencé par utiliser le simulateur inclus avec le système d'exploitation officiel du Rapsberry Pi.
+Lorsque je suis arrivé aux limites de ce dernier, j'ai inverti dans l'équipement afin de continuer mon développement.</p>
+<p>Aujourd'hui (le 19 mars 2021), je n'ai pas encore fini ce projet. Je suis très content et attaché à ce projet et je compte m'en servir un
+jour bien qu'il soit très sommaire.</p>
+<p>Je pense qu'avec le recul et mon expérience, je pourrai recommencer le projet pour qu'il intègre de nouvelles fonctionnalités et que le
+développement soit plus facile.</p>
+<h2 id="letter_counter">Letter counter<a class="headerlink" href="#letter_counter" title="Permanent link">&para;</a></h2>
 <p><a href="https://github.com/albandewilde/letter_counter" title="Dépôt github">Letter counter</a> est un bot discord qui compte les caractères et messages que les
 utilisateurs envoient.</p>
 <p>Des <a href="https://fr.wikipedia.org/wiki/Bot_informatique" title="Bot Informatique - Wikipedia">bots</a>
@@ -110,7 +126,7 @@ utile. Je retiens beaucoup sur les chaines de caractères en informatique qui
 est en fait un problème très complexe. Ce que j’ai appris à ce sujet pendant ce
 projet m’a permis de comprendre beaucoup de choses plus tard, notamment
 certaines implémentations et mécaniques du Rust.</p>
-<h1 id="web_radio_share">Web Radio Share<a class="headerlink" href="#web_radio_share" title="Permanent link">&para;</a></h1>
+<h2 id="web_radio_share">Web Radio Share<a class="headerlink" href="#web_radio_share" title="Permanent link">&para;</a></h2>
 <p>Ce projet (<a href="https://github.com/Keftcha/web_radio_share" title="Dépôt github">WRS</a>) a été
 initié dans le but de partager la musique que l'on écoute.<br />
 Cependant, pour moi, le but principal était de me familiariser avec la mise en pratique d'un serveur http

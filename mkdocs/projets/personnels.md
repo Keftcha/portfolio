@@ -1,6 +1,26 @@
 projets personnels
 
-# SenseHat-connected-clock
+# SenseHat connected clock
+
+Le [SenseHat connected clock](https://github.com/Keftcha/SenseHat-connected-clock/) est un de mes premiers projets.  
+J'ai eu l'idée d'initier ce projet car je voulais une petite horloge connectée et tant qu'à faire, autant la faire sois même !
+
+Ce projet est en python et est aussi l'un des premiers avec lequel j'ai utilisé git. Il est relativement vieux et je m'efforce de faire
+un code le plus propre possible car je ne développe pas fréquemment dessus. Je continue le développement de ce projet de manière très
+irrégulière.
+
+Je suis très content de ce projet car j'ai un retour direct de ce que j'ai fait. Ceci est dû au fait qu'il utilise le
+[Sense HAT](https://www.raspberrypi.org/products/sense-hat/) du Rapsberry Pi. Ce projet est beaucoup moins abstrait que la plupart des
+autre que j'ai pu faire.
+
+Pour le développement de ce projet j'ai commencé par utiliser le simulateur inclus avec le système d'exploitation officiel du Rapsberry Pi.
+Lorsque je suis arrivé aux limites de ce dernier, j'ai inverti dans l'équipement afin de continuer mon développement.
+
+Aujourd'hui (le 19 mars 2021), je n'ai pas encore fini ce projet. Je suis très content et attaché à ce projet et je compte m'en servir un
+jour bien qu'il soit très sommaire.
+
+Je pense qu'avec le recul et mon expérience, je pourrai recommencer le projet pour qu'il intègre de nouvelles fonctionnalités et que le
+développement soit plus facile.
 
 # Letter counter
 

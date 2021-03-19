@@ -71,7 +71,7 @@ notamment sur les idiomes de Go.
 C'est aussi pendant ce projet que je me suis mis à préférer Go à Python. À la fois pour sa simplicité de développement,
 que pour tout l'environnement et les outils qu'il nous met à disposition.
 
-# Diodon
+## Diodon
 
 [Diodon](https://github.com/Keftcha/diodon "Dépôt github") est, lui aussi, un
 bot discord. Son but est d'apprendre des messages des utilisateurs pour

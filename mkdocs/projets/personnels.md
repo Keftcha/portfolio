@@ -29,7 +29,23 @@ est en fait un problème très complexe. Ce que j’ai appris à ce sujet pendan
 projet m’a permis de comprendre beaucoup de choses plus tard, notamment
 certaines implémentations et mécaniques du Rust.
 
-# web_radio_share
+# Web Radio Share
+
+Ce projet ([WRS](https://github.com/Keftcha/web_radio_share "Dépôt github")) a été
+initié dans le but de partager la musique que l'on écoute.  
+Cependant, pour moi, le but principal était de me familiariser avec la mise en pratique d'un serveur http
+en Go avec la librairie standard. J'ai aussi profité de ce projet pour me familiariser avec le *templating*
+que permet le même langage.  
+Ce projet m'a permis aussi de perfectionner ma pratique de docker.
+
+On peut comparer ce que fait le package de la librairie standard de Go
+([net/http](https://golang.org/pkg/net/http/ "Package http")) à ce que font des librairies comme
+[Flask](https://flask.palletsprojects.com/en/1.1.x/) ou encore [Bottle](https://bottlepy.org/docs/dev/) en Python.  
+Ayant déjà utilisé *Bottle* plusieurs fois, la ressemblance me semblait forte. J'ai pu apprendre beaucoup,
+notamment sur les idiomes de Go.
+
+C'est aussi pendant ce projet que je me suis mis à préférer Go à Python. À la fois pour sa simplicité de développement,
+que pour tout l'environnement et les outils qu'il nous met à disposition.
 
 # Diodon
 

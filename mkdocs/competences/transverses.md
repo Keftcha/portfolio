@@ -1,7 +1,5 @@
 Competences transverse
 
-# Communication, Écoute
-
 # Pédagogue
 
 J'aime transmettre mes connaissances, c'est pour ça que je suis très pédagogue.  
@@ -18,11 +16,7 @@ comprenne et retienne ce qu'on lui explique.
 
 Je pense être un bon pédagogue par mes expériences.
 
-# Autonomie, Prise d'initiative
-
 # Critique, Prise de recul
-
-# Imaginatif, Challenge
 
 # Autodidacte, Persévérant
 

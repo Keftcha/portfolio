@@ -1,6 +1,10 @@
-projets personnels
+# Mes projets personnels
 
-# SenseHat connected clock
+J'aime beaucoup programmer. C'est pourquoi souvent je fais de petits projets qui me permettent d'apprendre des choses.  
+Que ce soit pour me familiariser à un langage, mettre en pratique un algorithme, ou tomber sur des problèmes que je ne soupçonnais pas, je
+suis toujours ravis de découvrir de nouvelles choses.
+
+## SenseHat connected clock
 
 Le [SenseHat connected clock](https://github.com/Keftcha/SenseHat-connected-clock/) est un de mes premiers projets.  
 J'ai eu l'idée d'initier ce projet car je voulais une petite horloge connectée et tant qu'à faire, autant la faire sois même !
@@ -22,7 +26,7 @@ jour bien qu'il soit très sommaire.
 Je pense qu'avec le recul et mon expérience, je pourrai recommencer le projet pour qu'il intègre de nouvelles fonctionnalités et que le
 développement soit plus facile.
 
-# Letter counter
+## Letter counter
 
 [Letter counter](https://github.com/albandewilde/letter_counter "Dépôt github") est un bot discord qui compte les caractères et messages que les
 utilisateurs envoient.
@@ -49,7 +53,7 @@ est en fait un problème très complexe. Ce que j’ai appris à ce sujet pendan
 projet m’a permis de comprendre beaucoup de choses plus tard, notamment
 certaines implémentations et mécaniques du Rust.
 
-# Web Radio Share
+## Web Radio Share
 
 Ce projet ([WRS](https://github.com/Keftcha/web_radio_share "Dépôt github")) a été
 initié dans le but de partager la musique que l'on écoute.  

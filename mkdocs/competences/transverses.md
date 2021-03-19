@@ -14,7 +14,8 @@ Pendant mes études j'ai aussi pu aider mes camarades. Lorsqu'on aide une
 personne sur des sujets techniques, il faut être pédagogue pour que la personne
 comprenne et retienne ce qu'on lui explique.
 
-Je pense être un bon pédagogue par mes expériences.
+Je pense être un bon pédagogue par mes expériences. Néanmoins, je suis perfectible
+car je n'ai pas encore une grande expérience.
 
 # Critique, Prise de recul
 

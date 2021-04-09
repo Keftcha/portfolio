@@ -1,6 +1,6 @@
-Je suis Alban De Wilde, étudiant en quatrième année d'ingénierie du logiciel à l'école In'Tech.
+Je suis Alban De Wilde, étudiant en cinquième année d'ingénierie du logiciel à l'école In'Tech.
 
-J'ai affectué un stage de 6 mois dans une équipe innovation à la SNCF. À présent
+J'ai effectué un stage de 6 mois dans une équipe innovation à la SNCF. À présent
 j'effectue une alternance de deux ans au sein du groupe Sogeti.
 
 <hr>

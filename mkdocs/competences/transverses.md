@@ -1,6 +1,10 @@
-Competences transverse
+# Competences transverse
 
-# Pédagogue
+Les compétences techniques sont importantes. Cependant elles ne font pas tout, car
+dans notre métier nous travaillons en équipe. De ce fait, les compétences non
+techniques, ou transverse, ont aussi une place importante.
+
+## Pédagogue
 
 J'aime transmettre mes connaissances, c'est pour ça que je suis très pédagogue.  
 Je me suis rendu compte que j'aimais transmettre ce que je savais lorsque
@@ -17,9 +21,20 @@ comprenne et retienne ce qu'on lui explique.
 Je pense être un bon pédagogue par mes expériences. Néanmoins, je suis perfectible
 car je n'ai pas encore une grande expérience.
 
-# Critique, Prise de recul
+## Critique, Prise de recul
 
-# Autodidacte, Persévérant
+Un autre element que j'essaye de développer est d'avoir un avis critique sur ce que
+je produis. Pour cela il faut une prise de recul.  
+Relever la tête du guidon est très important pour ne pas foncer dans le mur. Cela
+permet de prendre conscience au plutôt que l'on a pris un mauvais chemin et de ne pas
+dépenser de l'énergie et du temps dans la mauvaise direction.  
+Le but d'un avis critique est de permettre de se remettre en question pour progresser
+et s'améliorer.
+Avec le temps j'arrive de plus en plus à relever la tête pour avoir un avis critique
+et constructif de mes productions. Bien que parfois encore j'ai besoin de l'aide de
+quelqu'un afin de relever la tête.
+
+## Autodidacte, Persévérant
 
 Je suis très curieux et j'ai toujours envie d'apprendre et de comprendre.  
 C'est cette constante curiosité qui me pousse à découvrir de nouvelles

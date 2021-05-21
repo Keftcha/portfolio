@@ -12,7 +12,7 @@ pour la libre création, réutilisation, et consultation des contenus, projets e
 programmes réalisés.
 
 Je fais aussi beaucoup de sports, principalement de la natation
-depuis plus de 12 ans.
+depuis plus de 14 ans.
 
 Dans la vie j'essaye de prendre un maximum de plaisir dans tout ce que je fais,
 c'est pourquoi, entre autres, je suis très investis et impliqué dans mes activités.

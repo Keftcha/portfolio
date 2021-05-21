@@ -5,7 +5,7 @@
             <span style="font-weight: normal;">Alban</span> <b>De Wilde</b>
         </h1>
         <b>
-            Étudiant en quatrième année d'informatique
+            Étudiant en cinquième année d'informatique
         </b>
         <br>
         À <a target="_blank" href="https://www.intechinfo.fr/">In'Tech</a>
@@ -25,7 +25,7 @@
         <br>
         <br>
 
-        Mobile en France (permis A2, B)
+        Mobile en France (permis A, B)
     </div>
 </div>
 

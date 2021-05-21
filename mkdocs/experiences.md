@@ -41,7 +41,7 @@ J'ai pu faire ce stage dans un pole innovation de la SNCF (574) à Nantes.
 J'ai travaillé sur plusieurs projets avec des technologies diverses que je n'avais encore jamais rencontrés.
 Les technologies utilisées étaient principalement du Ruby on Rails et du React.
 Comme j'étais dans un pôle innovation, j'ai aussi pu apprendre des
-technologies tels que django ou encore go.  
+technologies tels que Django ou encore Go.  
 De ce qui est de l'organisation, nous utilisions la méthode agile scrum que
 nous avons adapté à notre équipe.
 
@@ -52,4 +52,13 @@ organisationnel et des relations humaines.
 
 # L'alternance
 
-// TODO
+L'alternance se déroule pendant les deux dernières années du cursus In'Tech.  
+Son but est de nous apprendre le **métier**.
+
+J'ai fait mon alternance au sein du groupe Sogeti à Nantes.  
+J'ai travaillé au SogetiLabs (pole innovation) sur le projet SmartGeoloc.  
+Les technologies utilisées étaient principalement du Java, du Python et du React.
+
+C'est pendant cette alternance, eu près d'autre stagiaire et alternante, que
+je me suis aperçu que je me trompais : le but de l'école n'est pas de nous apprendre un métier.
+Son but, c'est de nous donner l'impulsion du départ d'un long apprentissage.

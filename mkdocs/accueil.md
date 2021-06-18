@@ -1,5 +1,5 @@
 <div>
-    <img alt="photo" src="/portfolio/img/photo.jpg" style="max-width: 49%">
+    <img alt="photo" src="/portfolio/img/photo.jpg" style="max-width: 49%; vertical-align: top">
     <div style="text-align: right; display: inline-block; width: 49%;">
         <h2>
             <span style="font-weight: normal;">Alban</span> <b>De Wilde</b>

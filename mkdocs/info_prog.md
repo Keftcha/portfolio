@@ -7,6 +7,8 @@ Lorsque je suis arrivé en première année à In'Tech j'avais un certain avanta
 Cependant je ne me suis pas reposé et j'ai continué à apprendre d'autres choses pousser par mes professeurs et mes proches.  
 J'ai aussi passé beaucoup de temps sur Codingame.
 
+Ce que j'apprécie dans le développement c'est l'aspect de création, de pouvoir crée ce que je souhaite, et de résoudre des problemes.
+
 Aujourd'hui, je suis moins à jouer sur Codingame.
 Je passe beaucoup de mon temps libre à développer et à m'amuser à faire des petits projets.
 

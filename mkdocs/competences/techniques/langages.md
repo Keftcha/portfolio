@@ -1,89 +1,50 @@
 # Langages de programmation
 
-Ma curiosité m'a poussé à m'intéresser à beaucoup de langages de programmation
-différents. Je ne vais pas tous les énumérer.  
-Voici ceux que j'ai principalement pratiqués avec leur contexte.
+## Go <img alt="gopher" src="/portfolio/img/go_gopher.png" style="max-height: 1em">
+
+J'ai commencé à utiliser Go en 2019 dans le cadre de la veille technologique que j'effectuais pour mon stage à la SNCF.
+Je l'ai trouvé pratique et bien pensé, et j'en ai fait une présentation à mes collaborateurs.
+
+J'ai réalisé plusieurs petits projets en Go sur mon temps libre, principalement des bots discord et des services web.
+
+J'aime ce langage car il est simple, rigoureux et sa philosiphie me correspond.  
+C'est pour ces raisons qu'aujourd'hui je ne développe presqu'en Go. Je souhaite utiliser cet outils professionnelement afin de profiter des
+ses nombreux avantages.
 
 ## Python <img alt="pyhton" src="/portfolio/img/python.png" style="max-height: 1em">
 
-Le Python est le langage avec lequel j'ai appris à programmer en autodidacte. C'était à la fin
-de mon collège.
+J'ai fais mes premiers pas dans la programmation avec Python en 2014.
 
-J'ai beaucoup pratiqué ce langage dans un premier temps dans de petits scripts
-sans intérêt. C'est lorsque j'étais au lycée que j'ai commencé à développer de
-petites applications qui avaient pour but de me faire apprendre la logique de la
-programmation.
+J'ai réalisé quelques projets en Python sur mon temps libre et aussi au niveau professionnel, principalement des bots discord et des
+services web. Je m'en suis aussi beaucoup servis pour résoudre des puzzles sur CodinGame.
 
-À mon arrivé à l'école j'ai commencé un projet un peu plus
-conséquent en Python (SenseHat-connected-clock). C'est dans cette même période
-que j'ai passé beaucoup de temps sur la plateforme [CodinGame](https://www.codingame.com/ "CG") 
-à résoudre des puzzles et à participé aux Clash of Code.
+Je trouve cette technologie simple et permissive qui était des elements qui me correspondaient.  
+Aujourd'hui je l'utilise moins car je préfère la rigeur de Go. Néanmoins je prends toujours plaisir à faire du Python.
 
 ## Rust <img alt="rust" src="/portfolio/img/rust_logo.svg" style="max-height: 1em">
 
-Rust est le second langage que j'ai appris en autodidacte. 
+J'ai découvert ce langage en 2018 pour diversifier mes connaissances en programmation. Cette technologie demande une connaissance assez
+avancé et à un coup de développement assez élevé. Rust est fait pour ré-écrire de projets existant dans le but de gagner en perormance.
 
-Je n'ai pas encore fait de projet dans ce langage cependant j'ai effectué les
-exemples de "[the book](https://doc.rust-lang.org/book/ "The Rust Programming Language")" et
-je suis enthousiaste à l'idée de réaliser un produit avec cette technologie.
+J'ai très peu utiliser cet outil. Mon expérience ce réume à un bot discord et à la résolution de puzzle CodinGame.
 
-## Go <img alt="gopher" src="/portfolio/img/go_gopher.png" style="max-height: 1em">
-
-Ce langage me plaît énormément. C'est un proche qui m'a conseillé de m'y intéresser.
-
-J'ai commencé à utiliser le Go pendant mon stage de 6 mois dans le cadre de la
-veille technologique qui nous était attribué. J'ai trouvé ce langage très bien
-pensé et pratique à développer. J'ai présenté une introduction à ce langage à
-mes collaborateurs.
-
-Personnellement j'ai fait plusieurs petits projets en Go tel que des bots
-discord (letter_counter, ...) et un peu de web (web_radio_share, gss).
-
-Je trouve le Go très agréable à développer, c'est pourquoi je souhaite continuer
-à développer en Go personnellement et profesionnellement (si l'occasion se présente).
-
-## Haskell <img alt="haskell" src="/portfolio/img/haskell.png" style="max-height: 1em">
-
-Je me suis intéressé à ce langage pour découvrir un autre paradigme de la
-programmation → la programmation fonctionnelle.
-
-Je souhaitais apprendre une nouvelle manière de programmer et de réfléchir au
-travers ce paradigme.
+Je trouve Rust très intéressant de par sa rigeur et les mécanismes qu'il apporte.  
+C'est un langage que je souhaite pratiquer plus à l'avenir.
 
 ## Kotlin <img alt="kotlin" src="/portfolio/img/kotlin_logo.png" style="max-height: 1em">
 
-J'ai pratiqué cette technologie lors de mon semestre 5. L'intervenant nous
-laisse le choix d'utiliser du Java ou du Kotlin lors de son cours sur le
-développement mobile.
+C'est pendant mon semestre 5 que cette technologie m'as été présenté. Je trouve qu'elle apporte un développement moderne à la JVM.
 
-Nous avons fait (en équipe de 2) le projet guess_the_language. C'est une petite
-application android, un quiz sur les logos des langages de programmation.
+J'ai utilisé cet outil principalement pour des projets scolaire et en entreprise, à la fois pour des applications mobile ou du développement
+back-end.
 
-J'ai trouvé ce langage très agréable à développer. De plus il est conçu pour
-être polyvalent, c'est a dire qu'il est fait pour être exécuté par de multiples
-plateformes (JVM, natif, navigateur, android).
+Je pense que Kotlin est le remplaçant de Java là où est la JVM.  
+Ce langage permet de résoudre des problemes de diverses manière, il ne limite donc pas la réflexion.
 
 ## Ruby <img alt="ruby" src="/portfolio/img/ruby.png" style="max-height: 1em">
 
-J'ai découvert le Ruby pendant mon stage de semestre 6. C'est le langage
-principalement utilisé par l'équipe innovation dans laquelle j'étais car le
-techlead avait une grande aisance du framework Ruby on Rails.
+J'ai fais du Ruby pendans 6 mois, lors de mon stage à la SNCF. Je l'ai trouvé facile à prendre en main.
 
-J'ai contribué aux projets de l'équipe. C'est ce qui m'a permis d'apprendre ce langage.
+Les projets fait pendant ce stage avec Ruby on Rails sont mes seuls expérience avec cette technologie.
 
-Ce n'est pas mon langage favoris car je le trouve très permissif (dû à son
-héritage de Perl). Néanmoins j'apprécie l'utilisé pour développer.
-
-## C Sharp <img alt="cs" src="/portfolio/img/cs.png" style="max-height: 1em">
-
-Le C# est le langage qui nous est enseigné au semestre 3 pour l'apprentissage
-de la programmation orienté objet.
-
-J'ai pratiqué ce langage lors des projets en semestre 3, 4 et 5. De ce fait
-c'est une des technologies que j'ai le plus pratiqué, mais aussi celle dont j'ai
-le moins respecté les conventions de code dû à la précipitation de la
-réalisation des projets.
-
-Bien que ce soit un des langages dans lesquels je suis le plus expérimenté, ce
-n'est pas mon favori. Je pense que cela est à cause du contexte dans lequel je
-pratiquais cette technologie.
+J'ai apprécié développer avec cet outil car, comme le Go, il permet de réfléchif a la solution implémenté et non à comment l'implémenté.

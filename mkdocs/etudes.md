@@ -1,5 +1,4 @@
-Pour mes études j'ai eu un parcours très classique. Après le lycée je suis allé
-à l'école In'Tech.
+J'ai eu un parcours scolaire classique, après mon baccalauréat je suis entré à In'Tech.
 
 - [Le lycée](#le_lycee)
 - [L'école](#lecole)
@@ -24,7 +23,7 @@ Pour mes études j'ai eu un parcours très classique. Après le lycée je suis a
 
 Je suis allé au [lycée Voltaire d'Orléans la Source](http://www.voltaire.com.fr/ "Site du lycée Voltaire").  
 J'ai fait deux ans (seconde et première) en section natation au club de l'AON
-(Alliance Orléans Natation). Et pour mon année de terminal j'ai passé un
+(Alliance Orléans Natation). Pour mon année de terminal j'ai passé un
 baccalauréat Scientifique SVT avec pour enseignement de spécialité les
 mathématiques et l'option arts plastique.
 
@@ -32,138 +31,98 @@ J'ai obtenu mon baccalauréat avec la mention bien.
 
 # L'école
 
-L'école dans laquelle je suis allé est In'Tech.  
-Cette école m'a été conseillé car elle a une pédagogie particulière que j'ai
-découverte lors des portes ouvertes et qui me correspond.
+J'ai choisis d'aller à In'Tech car c'était la seul école qui proposait une pédagogie par
+projet aussi poussé.
 
 ## La pédagogie
 
-L'école fonctionne par semestre. Nous réalisions les semestres 1 à 5 au sein de l'école,
-le semestre 6 est dédié à un stage de 6 mois et les semestres 7 à 10 se font en
-alternance.
+L'école fonctionne par semestre.
 
-Lors des semestres 1 à 5 il nous est enseigné deux matières principales,
-le PI (Projet Informatique) et le PFH (Projet de Formation Humaine). Ils sont
-dédié à la réalisation de deux projets (un par matière) chaque semestre.  
-Chaque projet est réalisé en équipe de 3 à 5 personnes.  
-En plus de ces deux matières nous avons ponctuellement des intervenants qui
-nous enseignent des savoirs tels que les méthodes agiles et d'autres.
+Les semestres 1 à 5 sont consacré à la réalisation de projets.  
+Nous réalisions un projet PI (Projet Informatique) et un projet PFH (Projet de Formation Humaine) chaque semestre en équipe de 3 à 5
+personnes.
+
+Les semestres 6 à 10 se portent sur l'apprentissage du metier en entreprise.  
+Le semestre 6 est réalisé en stage et les semestres 7 à 10 en alternance.
 
 ### PFH
 
-Le PFH a pour but de nous enseigner des compétences transverses et non techniques.
-Du semestre 1 à 4 nous avons un PFH par semestre. Chaque semestre est orienté sur
-l'apprentissage d'un thème particulier avec en continuité, l'enseignement de la gestion de projet.
+Le but est de nous enseigner des compétences transverses et non techniques.  
+Chaque semestre est orienté sur l'apprentissage d'un thème avec comme fond la gestion de projet.
 
 #### Semestre 1
 
-Au semestre 1 il nous est demandé de réaliser une pièce de théâtre en partant de
-l'écriture jusqu'à la mise en scène de celle-ci.
+Nous réalisons une pièce de théâtre en partant de l'écriture à la mise en scène.
 
-Le but est de nous permettre d'être plus à l'aise à l'oral, de nous initier à
-la gestion de projets et nous permet de créer des liens, rapidement, avec les
-autres membres de la promotion.
+L'intéret de cet exercice est de devenir à l'aise à l'oral et de crée des liens avec les autres membres de la promotion.
 
 #### Semestre 2
 
-Au semestre 2 il est demandé faire de la communication. Pour cela, la plupart des
-étudiants créent un partenariat avec une association et leur proposent de
-communiquer son image.
+La communication est un aspect important des projets qui réussisent.  
+La plupart des étudiants créent un partenariat avec une association pour communiquer son image.
 
-Le but est de permettre de créer un partenariat qui pourra être réutilisé dans le
-futur et d'être initié aux techniques de communication (identification de la
-cible, création de visuels et affiches, campagne d'e-mail, ...)
+Cet exercice permet de faire un premier pas dans le monde de la communication (cible, identification visuel, campagne d'e-mail, ...)
 
 #### Semestre 3
 
-Au semestre 3 nous faisont de la transmission de nos connaissances.
-Généralement, les élèves organisent un cours ou une conférence sur un sujet qui
-les passionne à destination, généralement, d'autres élèves de l'école.
+Savoir communiquer avec les gens qui nous entours est important dans notre métié.  
+Chaque semestre les étudiants organisent des cours ou des conférences.
 
-Le but à ce semestre, est, en plus de contribuer à progresser l'aisance orale,
-de nous apprendre à nous adapter à notre publique et d'être clair et savoir se
-faire comprendre par d'autres.
+Le but est de se rendre accessible à son publique, maitriser son sujet et prendre confiance face à une assemblé.
 
 #### Semestre 4
 
-Au semestre 4 il est demandé de réaliser un événement. Chaque semestre une lan
-est organisée. Néanmoins des projets comme des maraudes, ou encore des voyages
-dans d'autres pays européens sont organisés.
+Nous devons réaliser un événement tel qu'une lan, un voyage, une marause, ...
 
-Ce semestre a pour but de réutiliser toutes les compétences développées aux
-semestres précédents, de gérer un plan de trésorerie et un stocke de nourriture,
-car, pour financer les projets nous organisons des buvettes.
+Nous devons réutiliser toutes les compétences aquises précédement en plus de gérer une trésorie pour financer le projet.
 
 #### Semestre 5
 
-Le semestre 5 nous n'avons pas de PFH. Ce dernier est remplacé par le PFE
-(Projet de Formation à l'Entreprise). Pendant les séances de PFE nous sommes
-aidé pour la conception et l'écriture de nos CV et lettres de motivation. Nous
-avons aussi des intervenants qui viennent pour nous aider et nous conseillé sur
-la tenus à tenir pendant les entretiens d'embauche.
+Pour les derniers mois d'école le PFH est remplacé par des cours pour nous préparer à des entretiens d'embauche (conception de CV, lettre de
+motivation, conseils sur Linkedin, mise en situation, premières rencontre avec des entreprises).
 
 ### PI
 
-Le PI est la matière technique qui nous est enseignée. Chaque semestre est
-séparé en deux parties, une partie enseignement, et une partie projet.  
-La partie enseignement représente environ un tiers du semestre et est orientée
-pratique.  
-La partie projet, quant à elle, se déroule le reste du semestre en essayant
-d'adopter une des méthodes d'organisation agile.
+Le PI nous permet d'apprendre en faisant. Bien que nous faisions principalement des projets, une partie théorique est présente.  
+Nos professeurs pratique leurs suivis de projet avec la méthode agile scrum en se positionnant comme les clients.
 
 #### Semestre 1
 
-Le semestre 1 a pour but d’initier chaque élève à l’art de la programmation.  
+A l'entrée de l'école les élèves sont initié à l'art de la programmation.  
 Nous créons un site web en NODE.JS (uniquement côté serveur), avec du HTML et CSS
 sans librairie.  
 Nous apprenons aussi l'usage d'outils tels que GIMP, et avons une
-initialisation à Linux et Vim.
+initialisation à Linux, Vim et git.
 
 #### Semestre 2
 
-Au semestre 2 le but est de nous initier aux bases de données relationnel.  
-Pour cela, les étudiants réalisent des sites de web, généralement de vente ou
-échange, avec du PHP et la base de données MariaDB.
+Les bases de données relationnel sont très présentent.  
+Nous apprenons à nous en servir dès la première année avec MariaDB et PHP pour faire un site web.
 
 #### Semestre 3
 
-Ce semestre, les étudiants sont divisés en deux filières. Une filière orienté
-développement, appelé Ingénierie du Logiciel (IL), et une autre orienté Systèmes
-et Réseaux (SR).
+Dès la deuxième année les étudiants sont spécialisé en déceloppement (appelé Ingénierie du Logiciel ou IL) ou Système et Réseaux (appelé SR).
 
-Pour ma part je suis allé en filière IL.
+Je suis allé en filière IL.
 
-En IL, le semestre 3 est dédié à l'apprentissage de la programmation orienté
-objet en C#, et aux bonnes pratiques de programmation, tels que les tests unitaires, ou encore, la
-clarté du code.
+En IL on apprends la programmation orienté objet (en C#) et les tests unitaires.
 
 #### Semestre 4
 
-Au semestre 4 il nous est introduit le principe d'application cliente (en JavaScript) dans le
-navigateur. Les projets (C#) sont plus ambitieux et adoptent une architecture plus
-industrielle. C'est à ce semestre que nous apprenons ce type architecture avec
-une partie cliente et une partie serveur.
+Nous apprenons à faire des applications plus conséquentes en architecture trois tiers.  
+Une application cliente (en JavaScript dans le navigateur) communique avec une application back-end (en C#) qui stoque la donnée dans une
+basse de donnée SQL.
 
 #### Semestre 5
 
-Au semestre 5 nous avons une introduction au Java, Kotlin, et au développement mobile.  
-Pour le projet nous avons le choix de refaire une application du même type
-qu'en semestre 4 ou | et une application mobile.  
-En plus, il nous est enseigné les principes de toolchain, que nous devons
-mettre en place sur le projet.
+Une introduction au développement mobile en Java et Kotlin nous est présenté.  
+Les projets sont au choix des applications mobile avec un backend ou bien un projet similaire au semestre précédent.
 
 ### Le stage du semestre 6
 
-Pendant ce semestre nous devons effectuer un stage d'une durée de 22 semaines à
-6 mois en entreprise. Le but est de mettre en pratique nos compétences
-techniques, humaines et organisationnel à échelle industrielle en plus de montée
-en compétences dans le domaine que nous avons choisi en semestre 3 (SR ou IL).
+Ce stage permet de faire un premier pas dans le domaine professionnel et de mettre en pratique nos apprentissage sur les 2 années et demi
+passée.
 
 ### L'alternance
 
-L'alternance à une durée de deux ans à la suite desquels nous obtenons le
-diplôme RNCP de niveau 1 (à condition de succès).  
-Le rythme est de 4 jours en entreprise (du lundi au jeudi) et un jour à l'école
-(le vendredi) avec ponctuellement des semaines entières à l'école ou en entreprise.  
-Ce rythme d'alternance permet une intégration des alternants en entreprise
-comme s'ils étaient employés à temps partiel.
+Nos études se finalisent avec deux ans d'altertances dans le but de nos apprendre notre futur métier.

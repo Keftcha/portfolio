@@ -14,9 +14,9 @@ nav:
             - Frameworks et librairies: "competences/techniques/frameworks_librairies.md"
             - Outils: "competences/techniques/outils.md"
         - Transverses: "competences/transverses.md"
-    - Les projets:
-        - Scolaires: "projets/scolaire.md"
-        - Personnels: "projets/personnels.md"
+    - Les réalisations:
+        - Scolaires: "realisations/scolaire.md"
+        - Personnels: "realisations/personnels.md"
     - Mes centres d'intérets:
         - Le sport: "sports.md"
         - L'informatique et la programation: "info_prog.md"

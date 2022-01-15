@@ -1,4 +1,4 @@
-# Competences transverse
+# Compétences transverses
 
 Les compétences techniques sont importantes. Cependant elles ne font pas tout, car
 dans notre métier nous travaillons en équipe. De ce fait, les compétences non
@@ -23,7 +23,7 @@ car je n'ai pas encore une grande expérience.
 
 ## Critique, Prise de recul
 
-Un autre element que j'essaye de développer est d'avoir un avis critique sur ce que
+Un autre élément que j'essaie de développer est d'avoir un avis critique sur ce que
 je produis. Pour cela il faut une prise de recul.  
 Relever la tête du guidon est très important pour ne pas foncer dans le mur. Cela
 permet de prendre conscience au plutôt que l'on a pris un mauvais chemin et de ne pas
@@ -46,10 +46,10 @@ la plupart des gens ont de leurs ordinateurs. Bien que j'ai rencontré beaucoup
 de difficultés à mes débuts, je ne m'y suis pas attardé et j'ai persévéré pour
 arriver à comprendre au mieux le fonctionnement de cet outil.  
 Dans le but d'aller toujours plus loin dans le fonctionnement de Linux, je ne
-me suis pas arrêté à une utilisation de cet outil. J'ai cherhcé à comprendre
+me suis pas arrêté à une utilisation de cet outil. J'ai cherché à comprendre
 son fonctionnement plus en profondeur. C'est pour cela qu'après avoir des bases
 dans l'utilisation de Linux au travers d'Ubuntu, je me suis dirigé vers Gentoo
 et ArchLinux.
 
-C'est à travers mon caractère curieu et de toujours vouloir arriver à mon but
+C'est à travers mon caractère curieux et de toujours vouloir arriver à mon but
 que je suis devenu autodidacte et persévérant.

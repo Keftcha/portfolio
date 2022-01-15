@@ -1,4 +1,4 @@
-# Mes projets personnels
+# Mes réalisations
 
 J'aime beaucoup programmer. C'est pourquoi souvent je fais de petits projets qui me permettent d'apprendre des choses.  
 Que ce soit pour me familiariser à un langage, mettre en pratique un algorithme, ou tomber sur des problèmes que je ne soupçonnais pas, je

@@ -49,6 +49,16 @@
         </a>
 
         <br>
+
+        GitLab:
+        <a
+            target="_blank"
+            href="https://gitlab.com/albandewilde"
+        >
+            albandewilde
+        </a>
+
+        <br>
         <br>
 
         Codingame:

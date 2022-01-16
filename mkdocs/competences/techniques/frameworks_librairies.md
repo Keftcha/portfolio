@@ -10,7 +10,7 @@ imposer une architecture et une manière de coder.
 
 ## Bottle <img alt="Bottle" src="/portfolio/img/bottle_icon.png" style="max-height: 1em">
 
-C'est une librairie pour faire des serveur web en python. Il est moins utilisé que Flask et très similaire en se voulant plus léger.
+C'est une librairie pour faire des serveurs web en python. Il est moins utilisé que Flask et très similaire en se voulant plus léger.
 
 Je l'ai utilisé pour des projets personnels ou faire des prototypes d'applications.
 
@@ -19,28 +19,28 @@ envergure.
 
 ## Javalin <img alt="Javalin" src="/portfolio/img/javalin_icon.png" style="max-height: 1em">
 
-Cet outils est identique à Bottle mais permet de développer avec du Java ou du Kotlin.
+Cet outil est identique à Bottle mais permet de développer avec du Java ou du Kotlin.
 
-Je l'ai utilise pour des projets scolaires. Sa simplicité nous à permis de développer rapidement notre application.
+Je l'ai utilisé pour des projets scolaires. Sa simplicité nous a permis de développer rapidement notre application.
 
-Javalin est simple à utiliser et reste un outils limité pour de grand projets. Il est parfait pour des petits projets ou des API.  
-C'est son usage falice et rapide qui me plait.
+Javalin est simple à utiliser et reste un outil limité pour de grands projets. Il est parfait pour des petits projets ou des API.  
+C'est son usage facile et rapide qui me plaît.
 
 ## React <img alt="React" src="/portfolio/img/react.png" style="max-height: 1em">
 
 J'ai commencé à utiliser cette librairie pour développement d'interface web pendant mon stage à la SNCF.
-J'ai trouvé cet outils agréable à utilisé et sa prise en main facile.
+J'ai trouvé cet outil agréable à utiliser et sa prise en main facile.
 
-Depuis cette période je fais les front-end des application avec React car je maitrise cet outils suffisament bien pour toujours pouvoir
-faire ce que je souhaite. La librairie corresponds à mes besoins en me garantissant une totale liberté.
+Depuis cette période je fais les front-end des applications avec React car je maitrise cet outil suffisamment bien pour toujours pouvoir
+faire ce que je souhaite. La librairie correspond à mes besoins en me garantissant une totale liberté.
 
 J'apprécie React pour la liberté qu'il nous permet tout en gardant une utilisation simple.
 
 ## Flutter <img alt="Flutter" src="/portfolio/img/flutter.svg" style="max-height: 1em">
 
-J'ai découvert ce framework en 2020 pendant la veille technologique que j'ai effectué pour mon alternance.
-J'ai trouvé le développement avec cet outils très facile et agréable, et j'en ai fait un présentation à mes collaborateurs.
+J'ai découvert ce framework en 2020 pendant la veille technologique que j'ai effectuée pour mon alternance.
+J'ai trouvé le développement avec cet outil très facile et agréable, et j'en ai fait une présentation à mes collaborateurs.
 
-J'aime beaucoup le développement avec Flutter car il permet de faire des application sur multiple support (mobile, ordinateur, web)
-en se concentrant sur l'interface du projet. L'environement est pensé pour facilité le travail du développeur ce qui permet d'être très
+J'aime beaucoup le développement avec Flutter car il permet de faire des applications sur multiple support (mobile, ordinateur, web)
+en se concentrant sur l'interface du projet. L'environnement est pensé pour faciliter le travail du développeur ce qui permet d'être très
 efficace.

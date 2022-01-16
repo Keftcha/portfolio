@@ -3,11 +3,11 @@
 Je fais du sport depuis que je suis très petit. Après quelques années à chercher quel sport je préférai,
 j'ai trouvé la natation.
 
-Le sport m'as beaucoup appris, notamment la rigeur, l'organisation et le sens des sacrifice. J'ai aussi appris à prendre du recul
-sur ce que je faisait, notamment sur le fait de prendre du plaisir dans ma pratique, écouter son corps (pour éviter les blessures).
+Le sport m'a beaucoup appris, notamment la rigueur, l'organisation et le sens des sacrifices. J'ai aussi appris à prendre du recul
+sur ce que je faisais, notamment sur le fait de prendre du plaisir dans ma pratique, écouter son corps (pour éviter les blessures).
 
 Aujourd'hui faire du sport m'est indispensable pour mon équilibre de vie car il me permet de me dépenser physiquement, et une
-parenthèse mentale où ma vie professionnel et familliale n'entrent pas en compte.
+parenthèse mentale où ma vie professionnel et familiale n'entrent pas en compte.
 
 ## La natation
 

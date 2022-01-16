@@ -31,7 +31,7 @@ J'ai obtenu mon baccalauréat avec la mention bien.
 
 # L'école
 
-J'ai choisis d'aller à In'Tech car c'était la seul école qui proposait une pédagogie par
+J'ai choisi d'aller à In'Tech car c'était la seule école qui proposait une pédagogie par
 projet aussi poussé.
 
 ## La pédagogie
@@ -42,7 +42,7 @@ Les semestres 1 à 5 sont consacré à la réalisation de projets.
 Nous réalisions un projet PI (Projet Informatique) et un projet PFH (Projet de Formation Humaine) chaque semestre en équipe de 3 à 5
 personnes.
 
-Les semestres 6 à 10 se portent sur l'apprentissage du metier en entreprise.  
+Les semestres 6 à 10 se portent sur l'apprentissage du métier en entreprise.  
 Le semestre 6 est réalisé en stage et les semestres 7 à 10 en alternance.
 
 ### PFH
@@ -54,27 +54,27 @@ Chaque semestre est orienté sur l'apprentissage d'un thème avec comme fond la 
 
 Nous réalisons une pièce de théâtre en partant de l'écriture à la mise en scène.
 
-L'intéret de cet exercice est de devenir à l'aise à l'oral et de crée des liens avec les autres membres de la promotion.
+L'intérêt de cet exercice est de devenir à l'aise à l'oral et de créer des liens avec les autres membres de la promotion.
 
 #### Semestre 2
 
-La communication est un aspect important des projets qui réussisent.  
+La communication est un aspect important des projets qui réussissent.  
 La plupart des étudiants créent un partenariat avec une association pour communiquer son image.
 
-Cet exercice permet de faire un premier pas dans le monde de la communication (cible, identification visuel, campagne d'e-mail, ...)
+Cet exercice permet de faire un premier pas dans le monde de la communication (cible, identification visuelle, campagne d'e-mail, ...)
 
 #### Semestre 3
 
-Savoir communiquer avec les gens qui nous entours est important dans notre métié.  
+Savoir communiquer avec les gens qui nous entour est important dans notre métier.  
 Chaque semestre les étudiants organisent des cours ou des conférences.
 
-Le but est de se rendre accessible à son publique, maitriser son sujet et prendre confiance face à une assemblé.
+Le but est de se rendre accessible à son public, maitriser son sujet et prendre confiance face à une assemblée.
 
 #### Semestre 4
 
-Nous devons réaliser un événement tel qu'une lan, un voyage, une marause, ...
+Nous devons réaliser un événement tel qu'une lan, un voyage, une maraude, ...
 
-Nous devons réutiliser toutes les compétences aquises précédement en plus de gérer une trésorie pour financer le projet.
+Nous devons réutiliser toutes les compétences acquises précédemment en plus de gérer une trésorerie pour financer le projet.
 
 #### Semestre 5
 
@@ -83,12 +83,12 @@ motivation, conseils sur Linkedin, mise en situation, premières rencontre avec 
 
 ### PI
 
-Le PI nous permet d'apprendre en faisant. Bien que nous faisions principalement des projets, une partie théorique est présente.  
-Nos professeurs pratique leurs suivis de projet avec la méthode agile scrum en se positionnant comme les clients.
+Le PI nous permet d'apprendre en faisant. Bien que nous fassions principalement des projets, une partie théorique est présente.  
+Nos professeurs pratiquent leurs suivis de projet avec la méthode agile scrum en se positionnant comme les clients.
 
 #### Semestre 1
 
-A l'entrée de l'école les élèves sont initié à l'art de la programmation.  
+À l'entrée de l'école les élèves sont initiés à l'art de la programmation.  
 Nous créons un site web en NODE.JS (uniquement côté serveur), avec du HTML et CSS
 sans librairie.  
 Nous apprenons aussi l'usage d'outils tels que GIMP, et avons une
@@ -96,33 +96,33 @@ initialisation à Linux, Vim et git.
 
 #### Semestre 2
 
-Les bases de données relationnel sont très présentent.  
+Les bases de données relationnelles sont très présentes.  
 Nous apprenons à nous en servir dès la première année avec MariaDB et PHP pour faire un site web.
 
 #### Semestre 3
 
-Dès la deuxième année les étudiants sont spécialisé en déceloppement (appelé Ingénierie du Logiciel ou IL) ou Système et Réseaux (appelé SR).
+Dès la deuxième année les étudiants sont spécialisé en développement (appelé Ingénierie du Logiciel ou IL) ou Système et Réseaux (appelé SR).
 
 Je suis allé en filière IL.
 
-En IL on apprends la programmation orienté objet (en C#) et les tests unitaires.
+En IL on apprend la programmation orientée objet (en C#) et les tests unitaires.
 
 #### Semestre 4
 
 Nous apprenons à faire des applications plus conséquentes en architecture trois tiers.  
-Une application cliente (en JavaScript dans le navigateur) communique avec une application back-end (en C#) qui stoque la donnée dans une
-basse de donnée SQL.
+Une application cliente (en JavaScript dans le navigateur) communique avec une application back-end (en C#) qui stocke la donnée dans une
+basse de données SQL.
 
 #### Semestre 5
 
-Une introduction au développement mobile en Java et Kotlin nous est présenté.  
-Les projets sont au choix des applications mobile avec un backend ou bien un projet similaire au semestre précédent.
+Une introduction au développement mobile en Java et Kotlin nous est présentée.  
+Les projets sont au choix des applications mobiles avec un backend ou bien un projet similaire au semestre précédent.
 
 ### Le stage du semestre 6
 
-Ce stage permet de faire un premier pas dans le domaine professionnel et de mettre en pratique nos apprentissage sur les 2 années et demi
+Ce stage permet de faire un premier pas dans le domaine professionnel et de mettre en pratique nos apprentissages sur les 2 années et demi
 passée.
 
 ### L'alternance
 
-Nos études se finalisent avec deux ans d'altertances dans le but de nos apprendre notre futur métier.
+Nos études se finalisent avec deux ans d'alternances dans le but de nos apprendre notre futur métier.
